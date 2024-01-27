@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![scr ](https://github.com/aspired2001/OppenInAssignFront/assets/100749624/02f5eec8-e681-4fc7-8641-9360fc8180e8)
 
 In the project directory, you can run:
 
@@ -68,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![scr1](https://github.com/aspired2001/OppenInAssignFront/assets/100749624/cb6fc3ab-ab2a-4a81-8940-89bdbedb43f7)
+
+
+
+
+![scr2](https://github.com/aspired2001/OppenInAssignFront/assets/100749624/2d751758-7240-4223-9acc-ccc4304ce6ee)
